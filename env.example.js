@@ -1,4 +1,8 @@
 module.exports = Object.freeze({
+    ocr_server:{
+        OCR_HOST: "",
+        OCR_PORT: ""
+    },
     /**
      * ## 账号相关
      * - `COOKIE` 是必填项
